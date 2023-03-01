@@ -116,8 +116,6 @@ namespace Spektrix
         // Animate user controls
         private void RunAnimation()
         {
-            DoubleAnimation bottom_bar_animation = new DoubleAnimation(0, this.menu_widget_hub.ActualWidth, new Duration(TimeSpan.FromSeconds(1)));
-            bottom_bar.BeginAnimation(WidthProperty, bottom_bar_animation);
             this.main_tab_bar.RunAnimation();
             this.main_group.RunAnimation();
         }
@@ -131,7 +129,6 @@ namespace Spektrix
             this.main_display_clock.Visibility = visible;
             this.main_tab_bar.Visibility = visible;
             this.main_group.Visibility = visible;
-            this.menu_widget_hub.Visibility = visible;
             this.startup_bar.Visibility = (visible == Visibility.Visible) ? Visibility.Hidden : Visibility.Visible;
         }
     }

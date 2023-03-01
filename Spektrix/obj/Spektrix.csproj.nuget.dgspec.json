@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joshk\\OneDrive\\Desktop\\Spektrix\\Spektrix\\Spektrix.csproj": {}
+    "C:\\Users\\500550\\Documents\\Code\\Spektrix\\Spektrix\\Spektrix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joshk\\OneDrive\\Desktop\\Spektrix\\Spektrix\\Spektrix.csproj": {
+    "C:\\Users\\500550\\Documents\\Code\\Spektrix\\Spektrix\\Spektrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joshk\\OneDrive\\Desktop\\Spektrix\\Spektrix\\Spektrix.csproj",
+        "projectUniqueName": "C:\\Users\\500550\\Documents\\Code\\Spektrix\\Spektrix\\Spektrix.csproj",
         "projectName": "Spektrix",
-        "projectPath": "C:\\Users\\joshk\\OneDrive\\Desktop\\Spektrix\\Spektrix\\Spektrix.csproj",
-        "packagesPath": "C:\\Users\\joshk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joshk\\OneDrive\\Desktop\\Spektrix\\Spektrix\\obj\\",
+        "projectPath": "C:\\Users\\500550\\Documents\\Code\\Spektrix\\Spektrix\\Spektrix.csproj",
+        "packagesPath": "C:\\Users\\500550\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\500550\\Documents\\Code\\Spektrix\\Spektrix\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "C:\\Users\\joshk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\500550\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -23,7 +23,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2": {}
         },
         "frameworks": {
           "net48": {

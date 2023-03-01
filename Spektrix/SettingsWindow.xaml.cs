@@ -15,7 +15,8 @@ namespace Spektrix
     {
         private readonly List<string> DirectoryNames = new List<string> { "Backgrounds", "AppIcons", "TabIcons" };
         private readonly string ResourceUrl = "pack://application:,,,/Resources";
-        private int CurrentGroup = 0; private int CurrentLauncher = 0;
+        private int CurrentGroup = 0; 
+        private int CurrentLauncher = 0;
         private string CurrentBackground = null;
         private string CurrentIcon = null;
         private string CurrentName = null;
