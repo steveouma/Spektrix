@@ -62,7 +62,6 @@ C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\Components\TabMen
 C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\Components\Group.g.cs
 C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\MainWindow.g.cs
 C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\Widgets\DiskMonitor.g.cs
-C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\Widgets\MultiMedia.g.cs
 C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\Widgets\NetworkMonitor.g.cs
 C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\App.g.cs
 C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
@@ -92,7 +91,6 @@ C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\Components\TabMen
 C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\Components\Group.baml
 C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\MainWindow.baml
 C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\Widgets\DiskMonitor.baml
-C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\Widgets\MultiMedia.baml
 C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\Widgets\NetworkMonitor.baml
 C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\Spektrix.g.resources
 C:\Users\500550\Documents\Code\Spektrix\Spektrix\obj\x64\Debug\Spektrix.Properties.Resources.resources

@@ -46,7 +46,7 @@
                     Name="Id"
                     Margin="0,1,1,1"
                     Foreground="White"
-                    FontFamily="{StaticResource Baksheesh}"
+                    FontFamily="{StaticResource GothamRounded}"
                     FontStyle="Normal"
                     TextWrapping="WrapWithOverflow"
                     TextAlignment="Center"

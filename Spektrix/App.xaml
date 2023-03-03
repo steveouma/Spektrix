@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:Spektrix"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-        <FontFamily x:Key="Baksheesh">./Resources/Fonts/Baksheesh.ttf#Baksheesh</FontFamily>
+        <FontFamily x:Key="GothamRounded">./Resources/Fonts/GothamRoundedBook_21018.ttf#GothamRounded</FontFamily>
     </Application.Resources>
 </Application>

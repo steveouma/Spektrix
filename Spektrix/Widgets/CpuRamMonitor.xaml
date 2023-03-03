@@ -21,7 +21,7 @@
                 <Viewbox HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,1">
                     <TextBlock x:Name="title" 
                        Foreground="White"
-                       FontFamily="{StaticResource Baksheesh}"
+                       FontFamily="{StaticResource GothamRounded}"
                        FontStyle="Normal"
                        TextAlignment="Center"
                        TextDecorations="Underline"
@@ -38,7 +38,7 @@
                 <Viewbox Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10,0,0,0">
                     <TextBlock x:Name="cpu_col0" 
                        Foreground="White"
-                       FontFamily="{StaticResource Baksheesh}"
+                       FontFamily="{StaticResource GothamRounded}"
                        FontStyle="Normal"
                        TextAlignment="Center"
                        Text="CPU:"/>
@@ -46,7 +46,7 @@
                 <Viewbox Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="1">
                     <TextBlock x:Name="cpu_col1" 
                                Foreground="White"
-                               FontFamily="{StaticResource Baksheesh}"
+                               FontFamily="{StaticResource GothamRounded}"
                                FontStyle="Normal"
                                TextAlignment="Center"
                                Text="---"/>
@@ -54,7 +54,7 @@
                 <Viewbox Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center">
                     <TextBlock x:Name="cpu_col2" 
                                Foreground="White"
-                               FontFamily="{StaticResource Baksheesh}"
+                               FontFamily="{StaticResource GothamRounded}"
                                FontStyle="Normal"
                                TextAlignment="Center" />
                 </Viewbox>
@@ -69,7 +69,7 @@
                 <Viewbox Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10,0,0,0">
                     <TextBlock x:Name="ram_col0" 
                                Foreground="White"
-                               FontFamily="{StaticResource Baksheesh}"
+                               FontFamily="{StaticResource GothamRounded}"
                                FontStyle="Normal"
                                TextAlignment="Center" 
                                Text="RAM:"/>
@@ -78,7 +78,7 @@
                 <Viewbox Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="1">
                     <TextBlock x:Name="ram_col1" 
                                Foreground="White"
-                               FontFamily="{StaticResource Baksheesh}"
+                               FontFamily="{StaticResource GothamRounded}"
                                FontStyle="Normal"
                                TextAlignment="Center"
                                Text="---"/>
@@ -86,7 +86,7 @@
                 <Viewbox Grid.Column="3" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="1">
                     <TextBlock x:Name="ram_col2" 
                                Foreground="White"
-                               FontFamily="{StaticResource Baksheesh}"
+                               FontFamily="{StaticResource GothamRounded}"
                                FontStyle="Normal"
                                TextAlignment="Center"
                                Text="---"/>

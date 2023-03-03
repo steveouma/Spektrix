@@ -12,7 +12,7 @@ namespace Spektrix.Components
     /// </summary>
     public partial class TabMenu : UserControl
     {
-        public Tab[] tabs = new Tab[4];
+        public Tab[] tabs = new Tab[2];
         private readonly string MenuIconsResourceUrl = "pack://application:,,,/Resources/MenuIcons/";
 
         public TabMenu()
@@ -22,8 +22,6 @@ namespace Spektrix.Components
             // Add named user control elements from xaml file to list
             tabs[0] = this.menu_tab_0;
             tabs[1] = this.menu_tab_1;
-            tabs[2] = this.menu_tab_2;
-            tabs[3] = this.menu_tab_3;
         }
 
         // Setup sets the information to be displayed

@@ -25,7 +25,7 @@
                     <TextBlock x:Name="title" 
                        Foreground="White"
                        Margin="0,0,0,5"
-                       FontFamily="{StaticResource Baksheesh}"
+                       FontFamily="{StaticResource GothamRounded}"
                        FontStyle="Normal"
                        HorizontalAlignment="Center"
                        VerticalAlignment="Center"
@@ -43,7 +43,7 @@
                 <Viewbox Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center">
                     <TextBlock x:Name="wifi_ipv4_col0" 
                        Foreground="White"
-                       FontFamily="{StaticResource Baksheesh}"
+                       FontFamily="{StaticResource GothamRounded}"
                        FontStyle="Normal"
                        Margin="3,2,0,2"
                        TextAlignment="Center"
@@ -52,7 +52,7 @@
                 <Viewbox Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Center">
                     <TextBlock x:Name="wifi_ipv4_col1" 
                                Foreground="White"
-                               FontFamily="{StaticResource Baksheesh}"
+                               FontFamily="{StaticResource GothamRounded}"
                                FontStyle="Normal"
                                Margin="0,2,0,2"
                                TextAlignment="Center"
@@ -68,7 +68,7 @@
                 <Viewbox Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center">
                     <TextBlock x:Name="ethernet_ipv4_col0" 
                        Foreground="White"
-                       FontFamily="{StaticResource Baksheesh}"
+                       FontFamily="{StaticResource GothamRounded}"
                        FontStyle="Normal"
                        Margin="3,2,0,2"
                        TextAlignment="Center" 
@@ -77,7 +77,7 @@
                 <Viewbox Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Center">
                     <TextBlock x:Name="ethernet_ipv4_col1" 
                                Foreground="White"
-                               FontFamily="{StaticResource Baksheesh}"
+                               FontFamily="{StaticResource GothamRounded}"
                                FontStyle="Normal"
                                Margin="0,2,0,2"
                                TextAlignment="Center"
@@ -94,7 +94,7 @@
                 <Viewbox Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3">
                     <TextBlock x:Name="speed_col0" 
                        Foreground="White"
-                       FontFamily="{StaticResource Baksheesh}"
+                       FontFamily="{StaticResource GothamRounded}"
                        FontStyle="Normal"
                        TextAlignment="Center" 
                        Text="--- B/s"/>
@@ -118,7 +118,7 @@
                     <Viewbox Grid.Column="1" Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="3">
                         <TextBlock x:Name="speed_col1" 
                            Foreground="White"
-                           FontFamily="{StaticResource Baksheesh}"
+                           FontFamily="{StaticResource GothamRounded}"
                            FontStyle="Normal"
                            TextAlignment="Center"
                            Text="Speed"/>
@@ -135,7 +135,7 @@
                 <Viewbox Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="3">
                     <TextBlock x:Name="speed_col2" 
                        Foreground="White"
-                       FontFamily="{StaticResource Baksheesh}"
+                       FontFamily="{StaticResource GothamRounded}"
                        FontStyle="Normal"
                        TextAlignment="Center"
                        Text="--- B/s"/>
@@ -151,7 +151,7 @@
                 <Viewbox Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3">
                     <TextBlock x:Name="peak_col0" 
                        Foreground="White"
-                       FontFamily="{StaticResource Baksheesh}"
+                       FontFamily="{StaticResource GothamRounded}"
                        FontStyle="Normal"
                        TextAlignment="Center" 
                        Text="--- MB/s"/>
@@ -175,7 +175,7 @@
                     <Viewbox Grid.Column="1" Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="3">
                         <TextBlock x:Name="peak_col1" 
                            Foreground="White"
-                           FontFamily="{StaticResource Baksheesh}"
+                           FontFamily="{StaticResource GothamRounded}"
                            FontStyle="Normal"
                            TextAlignment="Center"
                            Text="Peak"/>
@@ -192,7 +192,7 @@
                 <Viewbox Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="3">
                     <TextBlock x:Name="peak_col2" 
                        Foreground="White"
-                       FontFamily="{StaticResource Baksheesh}"
+                       FontFamily="{StaticResource GothamRounded}"
                        FontStyle="Normal"
                        TextAlignment="Center"
                        Text="kB/s"/>
@@ -208,7 +208,7 @@
                 <Viewbox Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="3">
                     <TextBlock x:Name="sum_col0" 
                        Foreground="White"
-                       FontFamily="{StaticResource Baksheesh}"
+                       FontFamily="{StaticResource GothamRounded}"
                        FontStyle="Normal"
                        TextAlignment="Center" 
                        Text="--- GB"/>
@@ -231,7 +231,7 @@
                     <Viewbox Grid.Column="1" Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="3">
                         <TextBlock x:Name="sum_col1" 
                            Foreground="White"
-                           FontFamily="{StaticResource Baksheesh}"
+                           FontFamily="{StaticResource GothamRounded}"
                            FontStyle="Normal"
                            TextAlignment="Center"
                            Text="SUM"/>
@@ -247,7 +247,7 @@
                 <Viewbox Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="3">
                     <TextBlock x:Name="sum_col2"
                                Foreground="White"
-                               FontFamily="{StaticResource Baksheesh}"
+                               FontFamily="{StaticResource GothamRounded}"
                                FontStyle="Normal"
                                TextAlignment="Center"
                                Text="--- GB"/>

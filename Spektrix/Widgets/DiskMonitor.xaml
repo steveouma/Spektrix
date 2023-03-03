@@ -21,7 +21,7 @@
                 <Viewbox HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,5">
                     <TextBlock x:Name="title" 
                                Foreground="White"
-                               FontFamily="{StaticResource Baksheesh}"
+                               FontFamily="{StaticResource GothamRounded}"
                                FontStyle="Normal"
                                TextAlignment="Center"
                                TextDecorations="Underline"
@@ -38,7 +38,7 @@
                 <Viewbox Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5,0,0,0">
                     <TextBlock x:Name="drive0_col0" 
                             Foreground="White"
-                            FontFamily="{StaticResource Baksheesh}"
+                            FontFamily="{StaticResource GothamRounded}"
                             FontStyle="Normal"
                             TextAlignment="Center"
                             Text="Free: ---"/>
@@ -47,7 +47,7 @@
                 <Viewbox Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="7">
                     <TextBlock x:Name="drive0_label" 
                                 Foreground="White"
-                                FontFamily="{StaticResource Baksheesh}"
+                                FontFamily="{StaticResource GothamRounded}"
                                 FontStyle="Normal"
                                 TextAlignment="Center" />
                 </Viewbox>
@@ -55,7 +55,7 @@
                 <Viewbox Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,5,0">
                     <TextBlock x:Name="drive0_col1" 
                                 Foreground="White"
-                                FontFamily="{StaticResource Baksheesh}"
+                                FontFamily="{StaticResource GothamRounded}"
                                 FontStyle="Normal"
                                 TextAlignment="Center"
                                 Text="Total: ---"/>
@@ -71,7 +71,7 @@
                 <Viewbox Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5,0,0,0">
                     <TextBlock x:Name="drive1_col0" 
                                 Foreground="White"
-                                FontFamily="{StaticResource Baksheesh}"
+                                FontFamily="{StaticResource GothamRounded}"
                                 FontStyle="Normal"
                                 TextAlignment="Center"
                                 Text="Free: ---"/>
@@ -80,7 +80,7 @@
                 <Viewbox Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="7">
                     <TextBlock x:Name="drive1_label" 
                                 Foreground="White"
-                                FontFamily="{StaticResource Baksheesh}"
+                                FontFamily="{StaticResource GothamRounded}"
                                 FontStyle="Normal"
                                 TextAlignment="Center" />
                 </Viewbox>
@@ -88,7 +88,7 @@
                 <Viewbox Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,5,0">
                     <TextBlock x:Name="drive1_col1" 
                                Foreground="White"
-                               FontFamily="{StaticResource Baksheesh}"
+                               FontFamily="{StaticResource GothamRounded}"
                                FontStyle="Normal"
                                TextAlignment="Center"
                                Text="Total: ---"/>

@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Spektrix.exe" size="32986624">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Spektrix.exe" size="30259712">
       <assemblyIdentity name="Spektrix" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>z5ThYhQbELKY0JQmErwdNZ+3ywQrg5Wrn6fIqCGWoIo=</dsig:DigestValue>
+        <dsig:DigestValue>nFtYnqXSpQ+RbexY4vyj58S1sGwtIXJI7hqh7CatlQs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

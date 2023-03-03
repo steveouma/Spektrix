@@ -31,7 +31,7 @@ namespace Spektrix
 
         private void Setup()
         {
-            int groupCount = 4; int launcherCount = 6;
+            int groupCount = 2; int launcherCount = 6;
 
             for (int i = 0; i < groupCount; i++)
                 this.cb_group.Items.Add(new ComboBoxItem() { Tag = i, Name = $"Group{i}", Content = $"Group {i}" });

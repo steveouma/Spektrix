@@ -30,7 +30,7 @@ namespace Spektrix.Components
         {
             // Update Time
             DateTime datetime = DateTime.Now;
-            clock.Content = datetime.ToString("hh:mm:ss tt");
+            clock.Content = datetime.ToString("HH:mm:ss");
             date.Content = datetime.ToString("MMM dd yyyy");
             day.Content = datetime.ToString("dddd");
         }
